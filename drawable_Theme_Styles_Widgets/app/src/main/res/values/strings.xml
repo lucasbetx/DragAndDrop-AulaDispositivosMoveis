@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">drawable_DragAndDrop</string>
+
+    <string name="message">Style</string>
+    <string name="todo">TODO</string>
+</resources>
